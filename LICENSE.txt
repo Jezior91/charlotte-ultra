@@ -1,0 +1,20 @@
+Charlotte Ultra — Proprietary License
+Copyright © 2025–2026 Tomasz Jeziorski
+Email: master.wapmag@gmail.com
+Tel: +48 502 509 430
+
+Ten plik stanowi tajemnicę handlową i własność intelektualną Tomasza Jeziorskiego.
+Wszelkie prawa zastrzeżone.
+
+DOZWOLONE:
+- Użytek osobisty i komercyjny przez licencjobiorcę
+- Modyfikacje na własny użytek
+
+ZABRONIONE:
+- Redystrybucja bez pisemnej zgody właściciela
+- Sprzedaż lub sublicencjonowanie
+- Usuwanie oznaczeń copyright
+- Reverse engineering w celach konkurencyjnych
+
+Naruszenie niniejszej licencji skutkuje automatycznym jej wygaśnięciem
+i może prowadzić do odpowiedzialności prawnej.

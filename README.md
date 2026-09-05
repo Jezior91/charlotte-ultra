@@ -1,59 +1,102 @@
-# ⚔️🛡️💰 Charlotte Ultra v5.0 — Multi-Income AI Combat Agent
+# Charlotte Ultra v6.3 — Pioneer Edition
+
+> **The only AI agent that fits in one file, works offline, and costs nothing.**
+
+[![Version](https://img.shields.io/badge/version-6.3-cyan)](https://github.com/Jezior91/charlotte-ultra)
+[![License](https://img.shields.io/badge/license-Proprietary-red)](LICENSE.txt)
+[![No Install](https://img.shields.io/badge/install-none%20required-green)]()
+[![Offline](https://img.shields.io/badge/works-offline-blue)]()
+
+**Copyright © 2025–2026 Tomasz Jeziorski** | master.wapmag@gmail.com
+
+---
+
+## 🚀 Uruchomienie — 1 krok
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║  CHARLOTTE ULTRA v5.0 GUARDIAN — 25-HEAD KOMBINATOR SYSTEM   ║
-║  © 2025-2026 TJ · TRADE SECRET · ALL RIGHTS RESERVED        ║
-╚═══════════════════════════════════════════════════════════════╝
+Pobierz CHARLOTTE_ULTRA_v6.3.html → otwórz w Chrome/Firefox/Edge
 ```
 
-> **World's first Multi-Income AI Combat Agent** — 25 AI heads, 84 commands, 6 tiers, 8+ income streams.
+Zero instalacji. Zero serwera. Zero opłat miesięcznych.
 
-## 🏗️ Architecture
+---
+
+## 🌟 21 Paneli w jednym pliku
+
+| Kategoria | Panele |
+|-----------|--------|
+| **AI** | Chat AI, Memory/IndexedDB, RAG/TF-IDF, Skills Marketplace |
+| **Finance** | Trading Bot, Business Plan, Kalkulator Budżetu |
+| **Crypto** | Crypto Suite, Crypto Cipher, Generator Haseł Pro |
+| **Pioneer** | Intent Ledger ⭐, Soul Lease Mesh ⭐, Browser Code Lab ⭐ |
+| **Utilities** | Voice STT+TTS PL, WinPot, CMS, Legal AI PL, System Check |
+| **DevOps** | Deploy/Config, Observability/Trace, Notatnik AI |
+
+⭐ = World's First funkcje
+
+---
+
+## 🏆 3 Pioneer Features — World's First
+
+### ⏰ Intent Ledger
+AI zapamiętuje Twoje zadania i wznawia je automatycznie przy każdym otwarciu.
+> *World's first AI agent that resumes autonomous tasks from browser-cached intent ledger — no server.*
+
+### 🕸 Soul Lease Mesh
+Otwórz Charlotte w wielu kartach → każda karta to osobny agent z tożsamością.
+Komunikują się przez BroadcastChannel — zero serwera, zero cloud.
+> *World's first peer-to-peer AI agent mesh running entirely in browser tabs.*
+
+### 💻 Browser Code Lab
+AI generuje kod → wykonuje w sandboxed iframe → SHA-256 evidence record → AI iteruje.
+> *World's first AI coding loop with sandboxed execution and evidence record — offline, one HTML file.*
+
+---
+
+## 🤖 Fallback LLM Chain
 
 ```
-🏰 GUARDIAN ──────── K24 Loss Eliminator │ K25 Fortress
-🌌 INTERGALACTIC ─── K21 Quantum │ K22 Multiverse │ K23 Nexus
-🚀 ORBIT ─────────── K18 Neural │ K19 Swarm │ K20 Empire
-⚔️ SPECTRUM ──────── K17 (12 attack + 12 defense vectors)
-🔷 ADVANCED ──────── K9-K16 (8 specialist heads)
-🟢 CORE ──────────── K1-K8 (8 foundation heads)
+Ollama (0 zł) → DeepSeek (~0.001$/1K) → OpenAI → Azure → Offline mode
 ```
 
-## 📊 Stats
+---
 
-| Metric | Value |
-|--------|-------|
-| AI Heads | **25** |
-| Commands | **84** |
-| Income Streams | **8+** |
-| Annual Potential | **1,076,204 PLN** |
-| Defense Score | **98.3/100** |
-| Stealth Layers | **14+** |
-| Quantum Resistance | **60 years** |
+## 📦 Historia wersji
 
-## 🚀 Quick Start
+| Wersja | Nazwa | Co dodano |
+|--------|-------|-----------|
+| **v6.3** | Pioneer Edition | Intent Ledger, Soul Mesh, Code Lab |
+| **v6.2** | UX Edition | Quick Bar, Onboarding, Ctrl+1-4, Notepad AI |
+| **v6.1** | Security Edition | XSS protection, AES-GCM, memory leak fix |
+| **v6.0** | Base Edition | 14 paneli, fallback LLM chain |
 
-```bash
-git clone https://github.com/Jezior91/charlotte-ultra.git
-cd charlotte-ultra/kombinator-ultra
-cp ../.env.example ../.env  # add your API keys
-python3 kombinator_coordinator.py --cmd status
-python3 kombinator_coordinator.py --cmd superchain
-python3 kombinator_coordinator.py --cmd fullpower
-```
+Wszystkie wersje w folderze `versions/`.
 
-## 🏆 Market Position — Zero Competitors
+---
 
-| | Charlotte Ultra | 3Commas | Cryptohopper | Pionex |
-|--|:-:|:-:|:-:|:-:|
-| Income Streams | **8+** | 1 | 1 | 1 |
-| AI Heads | **25** | 0 | 0 | 0 |
-| Annual Potential | **1.08M PLN** | ~6K | ~5K | ~3K |
-| Score | **97/100** | 52 | 48 | 45 |
+## 🌐 GitHub Pages
 
-## ⚠️ Legal
+Charlotte działa jako statyczna strona:
+👉 **https://jezior91.github.io/charlotte-ultra/**
 
-Trading involves risk. User responsible for API keys, compliance, and taxes. Casino module for math analysis only. Grants require ePUAP signature.
+---
 
-**© 2025-2026 TJ — TRADE SECRET — ALL RIGHTS RESERVED**
+## 📋 Wymagania
+
+- Chrome 90+ / Firefox 88+ / Edge 90+ / Safari 15+
+- Opcjonalnie: [Ollama](https://ollama.ai) lokalnie dla AI offline
+
+---
+
+## 💼 Zakup & Wsparcie
+
+- Gumroad: [charlotte-ultra](https://gumroad.com)
+- Email: master.wapmag@gmail.com
+- Tel: +48 502 509 430
+
+---
+
+## ⚖️ Licencja
+
+Proprietary License — Copyright © 2025–2026 Tomasz Jeziorski.
+Wszelkie prawa zastrzeżone. Patrz [LICENSE.txt](LICENSE.txt).
